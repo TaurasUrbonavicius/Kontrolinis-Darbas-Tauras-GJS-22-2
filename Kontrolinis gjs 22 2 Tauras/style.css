@@ -1,0 +1,27 @@
+body {
+    background: rgb(0,163,164);
+    background: linear-gradient(90deg, rgba(0,163,164,1) 0%, rgba(0,212,255,1) 0%, rgba(7,80,148,1) 40%, rgba(7,80,148,1) 60%, rgba(0,212,255,1) 100%);
+}
+
+hr {
+    width: 50%;
+}
+
+.box {
+    width: 20%;
+    height: 30%;
+    background-color: gray;
+    margin: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border-radius: 20px;
+    justify-content: center;
+    opacity: 80%;
+}
+
+.textBox {
+    text-align: left;
+}
